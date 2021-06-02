@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/harsh gajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="harsh gajjar" height="30" width="40" /></a>
-<a href="https://instagram.com/hrs_2220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="hrs_2220" height="30" width="40" /></a>
+<a href="https://www.facebook.com/harsh.gajjar.94064176" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" alt="harsh gajjar" height="40" width="40" /></a>
+<a href="https://instagram.com/hrs_2220" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="hrs_2220" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
