@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsh2220&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2220" /> </p>
 
-<img align="right" width="350" height="350" src="https://image.freepik.com/free-vector/work-time-concept-illustration_114360-1074.jpg" alt="logo"/>
+<img align="right" width="350" height="350" src="https://uploads-ssl.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd7815e7536a962af11bd_Frame-157.png" alt="logo"/>
 
 - 🌱 I’m currently learning **Backend.**
 
