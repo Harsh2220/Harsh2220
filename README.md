@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Backend.**
 
-- 👨‍💻 All of my projects are available at [http://harsh2220.netlify.app/](http://harsh2220.netlify.app/)
-
 - 💬 Ask me about **React.js,Firebase**
 
 - 📫 How to reach me **Harshgajjar2220@gmail.com**
