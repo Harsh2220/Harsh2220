@@ -13,9 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://www.facebook.com/harsh.gajjar.94064176" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" alt="harsh gajjar" height="40" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/harsh2220/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="hrs_2220" height="40" width="40" /></a>
-<a href="https://instagram.com/hrs_2220" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="hrs_2220" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh2220" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="40" width="40" /></a>
+<a href="https://twitter.com/HarshGa99484485" target="_blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Twitter" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
