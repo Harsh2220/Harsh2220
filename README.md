@@ -8,16 +8,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m currently working on LensPlay<br>- 🌱 I’m currently learning web3 and app development<br>- 💬 Ask me about full stack development</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
